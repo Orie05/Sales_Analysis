@@ -25,6 +25,7 @@ STEP 2: The column headers were identified in the first row and were kept as hea
 ![image](https://github.com/Orie05/Sales_Analysis/assets/149834782/35a6f90e-bf4c-4d2f-bb2e-d235c47986dd)
 
 STEP 3: After promoting the headers, I navigated to the 'Transform' tab and selected 'Detect Data Type.' This action automatically identified the data type of each column and converted them as needed. 
+
 STEP 4: I split the datetime into date and time stamp
 The aforementioned process starts with selecting the desired column. Following the selection, the option to split the column becomes visible. 
  • Choose the 'Split Column' option and select the space as the delimiter. 
