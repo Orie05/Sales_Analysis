@@ -101,7 +101,7 @@ The aforementioned process starts with selecting the desired column. Following t
 
 # FULL VISUALIZATION
 
-![image](https://github.com/Orie05/Sales_Analysis/assets/149834782/fcb0bb0b-ab9b-4724-a2ab-52a1c362d323)
+![image](https://github.com/Orie05/Sales_Analysis/assets/149834782/ced05c84-2fb4-4ed4-83fc-47b30575f9b0)
 
 
    
