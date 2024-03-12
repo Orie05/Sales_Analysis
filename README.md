@@ -19,6 +19,7 @@ To unlock actionable insights, we’ve addressed key questions:
 
 # DATA TRANSFORMATION AND PREPROCESSING
 STEP 1: I downloaded the dataset, uploaded it using the 'Get Data' option in Power BI and then proceeded to transform the data using the power query editor.
+
 STEP 2: The column headers were identified in the first row and were kept as headers by following the steps below
 
 ![image](https://github.com/Orie05/Sales_Analysis/assets/149834782/35a6f90e-bf4c-4d2f-bb2e-d235c47986dd)
