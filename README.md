@@ -1,12 +1,12 @@
 # SALES ANALYSIS USING POWER BI
 
-# INTRODUCTION
+## Introduction
 In this project, we will dive into a large sales dataset to extract valuable insights. We will explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins and create visualizations to present our findings effectively, enabling us to make data-driven recommendations for optimizing sales strategies.
 
-# DATA OVERVIEW
+## Data Overview
 This dataset, obtained from MeriSKILL forms the cornerstone of a comprehensive sales analysis project during my internship. Covering 19 different electronic gadgets and accessories sales from January 2019 to December 2019, it boasts 19 unique products across 11 columns, totalling 185,950 rows. Modified for in-depth analysis, it includes fields such as order_id, product, quantity_ordered and price, offering a rich source of insights into sales trends and customer behaviour. Utilizing the power bi tool, I meticulously visualized this dataset, unearthing actionable insights to inform strategic decision-making and drive business growth.
 
-# BUSINESS OBJECTIVE
+## Business Objective
 Our objective is to derive actionable insights from raw data to optimize strategies, enhance decision-making and drive sustainable growth. 
 
 To unlock actionable insights, we’ve addressed key questions:
@@ -17,7 +17,7 @@ To unlock actionable insights, we’ve addressed key questions:
 5.	What day of the week do we sell more? 
 6.	Calculate the revenue metrics (Total profit, sales quantity and profit margin)
 
-# DATA TRANSFORMATION AND PREPROCESSING
+## Data Transformation and Preprocessing
 STEP 1: I downloaded the dataset, uploaded it using the 'Get Data' option in Power BI and then proceeded to transform the data using the power query editor.
 
 STEP 2: The column headers were identified in the first row and were kept as headers by following the steps below
@@ -32,7 +32,7 @@ The aforementioned process starts with selecting the desired column. Following t
 • Upon completing the data transformation, click on 'Close & Apply' located at the top left. 
 
 
-# ANALYSIS AND INSIGHTS
+## Analysis and Insights
 ## 1.	What is the sales trend over time?
 
 ![image](https://github.com/Orie05/Sales_Analysis/assets/149834782/b227c833-972d-4435-9fe7-2654d7e8d604)
@@ -91,7 +91,7 @@ The aforementioned process starts with selecting the desired column. Following t
 •	With total revenue reaching $34.49 million, the business demonstrates substantial sales volume and revenue generation capabilities, underling its market competitiveness and potential for growth.
 
 
- # RECOMMENDATIONS 
+ ## Recommendations 
  
 1.	Diversify product offerings: Expand product range strategically to capitalize on high-demand categories, boosting sales and revenue diversification.
 2.	Leverage Data Analytics: Continue leveraging data analytics to gain actionable insights into customer behavior and market trends, guiding informed decision-making.
